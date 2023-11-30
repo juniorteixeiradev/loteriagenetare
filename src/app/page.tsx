@@ -69,7 +69,7 @@ export default function Loteria(){
         >
         Gerar
         </button>
-        <p>Ressaltamos que nos não fornecemos nenhum palpite ou informação para jogos <br />
+        <p className=" text-center">Ressaltamos que nos não fornecemos nenhum palpite ou informação para jogos <br />
         Os números gerados aqui são gerados de forma aleatória!
         </p>
         
